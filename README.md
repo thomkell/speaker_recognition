@@ -18,5 +18,8 @@ Details on the King Speaker Verification corpus and the recognition process.
 Exploration of the best parameters for the architecture.
 ### Results
 Presentation of experiments with different architecture parameters and their outcomes.
+
+![Result Graph](images/confMatrix.png)
+
 ### Discussion
 Insights on the best-evaluated model and suggestions for future experiments.
