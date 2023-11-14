@@ -4,10 +4,6 @@ CS682 - Assignment 2, Part 2
 29.09.2023, San Diego
 Code Version 1.0
 **************************
-I promise that the attached assignment is my own work.
-I recognize that should this not be the case,
-I will be subject to penalties as outlined in the course syllabus.
-Thomas Keller
 '''
 
 from argparse import ArgumentParser
